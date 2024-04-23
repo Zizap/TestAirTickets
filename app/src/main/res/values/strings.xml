@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TestAirTickets</string>
+
+    <string name="air_tickets">Авиабилеты</string>
+    <string name="hotels">Отели</string>
+    <string name="short_text">Короче</string>
+    <string name="sub">Подписки</string>
+    <string name="user">Профиль</string>
+    <string name="search_air_tickets">Поиск дешевых авиабилетов</string>
+    <string name="ot_">от</string>
+    <string name="stub">Заглушка</string>
+    <string name="istanbul">Стамбул</string>
+    <string name="popular">Популярное направление</string>
+    <string name="sochi">Сочи</string>
+    <string name="phuket">Пхукет</string>
+    <string name="where">Куда - Турция</string>
+    <string name="hard">Сложный маршрут</string>
+    <string name="anywhere">Куда угодно</string>
+    <string name="weekend">Выходные</string>
+    <string name="hot_tickets">Горячие билеты</string>
+    <string name="fly">Музыкально отлететь</string>
+    <string name="back">Назад</string>
+    <string name="todo">TODO</string>
+    <string name="back_chip">обратно</string>
+    <string name="direct_flights">Прямые рейсы</string>
+    <string name="view_all_tickets">Посмотреть все билеты</string>
+    <string name="ruble">₽</string>
+</resources>
